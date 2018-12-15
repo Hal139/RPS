@@ -1,0 +1,16 @@
+﻿<Window x:Class="RPSExport.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RPSExport"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="Customer ID&#xD;&#xA;" HorizontalAlignment="Left" Margin="90,209,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtOrderID" HorizontalAlignment="Left" Height="23" Margin="209,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.283,-1.665" />
+        <Button x:Name="BtnGetData" Content="Get Data" HorizontalAlignment="Left" Margin="376,209,0,0" VerticalAlignment="Top" Width="75" Click="BtnGetData_Click"/>
+        <Label x:Name="lblErrorTxt" Content="" HorizontalAlignment="Left" Margin="79,345,0,0" VerticalAlignment="Top" Height="49" Width="648"/>
+
+    </Grid>
+</Window>

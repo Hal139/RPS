@@ -1,0 +1,4 @@
+﻿CustomerID,CompanyName,ContactName,ContactTitle,Address,City,Region,PostalCode,Country,Phone,Fax
+WEZA,Weza Tester,Ima Tester,Tester,123 Test Ave,Testville,RI,2893,USA,401-555-2121,401-555-1212
+TERU,Testers R Us,Linka Testing,QA Specialist,75 QA St,Qaville,RI,65235,USA,401-615-0001,401-615-9999
+CODRU,Coders R Us,C Sharp,Coder,1 Binary Ct,Processorville,RI,8765,USA,401-999-9999,401-100-0001

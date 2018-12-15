@@ -1,0 +1,15 @@
+C:\stuff\RPSExport\RPSExport\bin\Debug\RPSExport.exe.config
+C:\stuff\RPSExport\RPSExport\bin\Debug\RPSExport.exe
+C:\stuff\RPSExport\RPSExport\bin\Debug\RPSExport.pdb
+C:\stuff\RPSExport\RPSExport\obj\Debug\RPSExport.csprojAssemblyReference.cache
+C:\stuff\RPSExport\RPSExport\obj\Debug\MainWindow.g.cs
+C:\stuff\RPSExport\RPSExport\obj\Debug\App.g.cs
+C:\stuff\RPSExport\RPSExport\obj\Debug\RPSExport_MarkupCompile.cache
+C:\stuff\RPSExport\RPSExport\obj\Debug\RPSExport_MarkupCompile.lref
+C:\stuff\RPSExport\RPSExport\obj\Debug\MainWindow.baml
+C:\stuff\RPSExport\RPSExport\obj\Debug\RPSExport.g.resources
+C:\stuff\RPSExport\RPSExport\obj\Debug\RPSExport.Properties.Resources.resources
+C:\stuff\RPSExport\RPSExport\obj\Debug\RPSExport.csproj.GenerateResource.cache
+C:\stuff\RPSExport\RPSExport\obj\Debug\RPSExport.csproj.CoreCompileInputs.cache
+C:\stuff\RPSExport\RPSExport\obj\Debug\RPSExport.exe
+C:\stuff\RPSExport\RPSExport\obj\Debug\RPSExport.pdb
